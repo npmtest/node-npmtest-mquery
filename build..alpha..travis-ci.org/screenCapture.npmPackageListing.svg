@@ -1,0 +1,24 @@
+<svg height="334" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="334" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 18:59:32 +0000   229056 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 18:59:32 +0000     7753 bytes  History.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 18:59:32 +0000     1112 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 18:59:32 +0000      430 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 18:59:32 +0000    31828 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 18:59:32 +0000      803 bytes  lib/collection/collection.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 18:59:32 +0000      239 bytes  lib/collection/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 18:59:32 +0000     3267 bytes  lib/collection/node.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 18:59:32 +0000      654 bytes  lib/env.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 18:59:32 +0000    75852 bytes  lib/mquery.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 18:59:32 +0000     1749 bytes  lib/permissions.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 18:59:32 +0000     7353 bytes  lib/utils.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 18:59:32 +0000     2513 bytes  package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 18:59:32 +0000        0 bytes  test/collection/browser.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 18:59:32 +0000        0 bytes  test/collection/mongo.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 18:59:32 +0000      600 bytes  test/collection/node.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 18:59:32 +0000      452 bytes  test/env.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 18:59:32 +0000    90931 bytes  test/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 18:59:32 +0000     3520 bytes  test/utils.test.js</tspan>
+</text>
+</svg>
